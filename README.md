@@ -82,7 +82,7 @@ Help:
 <!-- CONTACT -->
 ## Contact
 
-deidal0s - [@kerag0](https://twitter.com/deidal0s) - bd@crime.su
+deidal0s - [@deidal0s](https://twitter.com/deidal0s) - bd@crime.su
 
 Project Link: [https://github.com/deidal0s/Payload-Crafter/](https://github.com/deidal0s/Payload-Crafter/)
 
